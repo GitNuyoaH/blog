@@ -5,7 +5,7 @@ categories:
   - blog
 tags:
   - NuyoaH
-  - update
+  - 更新
 ---
 
 # Test
